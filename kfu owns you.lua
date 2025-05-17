@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ThunderScriptSolutions/Misc/refs/heads/main/RivalsSilentAim'))();
-loadstring(game:HttpGet("https://pastebin.com/raw/CbJ9mMjC"))();
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VXP-ui/222/refs/heads/main/silent'))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VXP-ui/esp/refs/heads/main/main%20paste"))();
